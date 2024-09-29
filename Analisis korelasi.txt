@@ -1,0 +1,25 @@
+Korelasi positif kuat
+Year (0.968): Korelasi yang sangat kuat dan positif. Ini menunjukkan bahwa seiring dengan berjalannya waktu, GDP per kapita cenderung meningkat. Artinya, ekonomi negara berkembang secara konsisten dari tahun ke tahun.
+Electricity_Access (0.913): Korelasi positif yang kuat, menandakan bahwa semakin banyak populasi yang memiliki akses ke listrik, GDP per kapita juga cenderung meningkat. Akses listrik adalah indikator penting dari infrastruktur yang memengaruhi pertumbuhan ekonomi.
+Employers_Percentage (0.671): Korelasi positif yang moderat. Persentase pemberi kerja (pengusaha) yang lebih tinggi dalam populasi biasanya dihubungkan dengan peningkatan GDP per kapita karena mereka mendorong aktivitas ekonomi dan penciptaan lapangan kerja.
+Final_Consumption (0.996): Korelasi yang sangat kuat dan positif. Final consumption expenditure (pengeluaran konsumsi akhir) berkorelasi erat dengan GDP per kapita karena konsumsi mencerminkan daya beli dan aktivitas ekonomi masyarakat.
+FDI_Percentage (0.623): Korelasi positif yang moderat. Investasi asing langsung (FDI) memiliki pengaruh positif terhadap GDP per kapita, meskipun tidak sangat kuat. FDI biasanya membawa modal dan teknologi yang membantu meningkatkan produktivitas ekonomi.
+Gini_Index (0.848): Korelasi positif yang kuat. Gini index mengukur ketidakmerataan pendapatan, dan korelasi ini menunjukkan bahwa ketidakmerataan yang lebih tinggi cenderung berhubungan dengan GDP per kapita yang lebih tinggi. Hal ini bisa menunjukkan bahwa pertumbuhan ekonomi mungkin lebih dinikmati oleh kelompok kecil dalam populasi.
+Labor_Total (0.973): Korelasi yang sangat kuat dan positif. Jumlah tenaga kerja total sangat berkorelasi dengan GDP per kapita, menunjukkan bahwa produktivitas yang tinggi dari tenaga kerja mendukung pertumbuhan ekonomi.
+Life_Expectancy (0.714): Korelasi positif yang kuat. Harapan hidup yang lebih tinggi biasanya menunjukkan tingkat kesejahteraan yang lebih baik, yang tercermin dalam peningkatan GDP per kapita.
+Net_Migration (0.705): Korelasi positif yang kuat. Negara dengan migrasi bersih yang lebih tinggi cenderung mengalami peningkatan GDP per kapita, mungkin karena migrasi biasanya mencerminkan arus pekerja terampil atau modal ke negara tersebut.
+
+Korelasi posistif lemah
+Edu_Expenditure (0.184): Korelasi positif yang lemah, menandakan bahwa pengeluaran pemerintah untuk pendidikan tidak memiliki pengaruh besar terhadap GDP per kapita dalam dataset ini.
+Labor_Advanced_Edu (0.025): Korelasi yang sangat lemah, menunjukkan bahwa persentase tenaga kerja dengan pendidikan tinggi tidak memiliki pengaruh signifikan terhadap GDP per kapita di dataset ini.
+Youth_Employment_Ratio (0.149): Korelasi yang lemah dan positif. Partisipasi pemuda dalam angkatan kerja menunjukkan hubungan yang lemah terhadap GDP per kapita.
+Corruption_Control (0.172): Korelasi positif tetapi lemah. Kontrol atas korupsi cenderung meningkatkan GDP per kapita, namun dalam dataset ini pengaruhnya tidak terlalu kuat.
+
+Korelasi negatif kuat
+Pop_Growth (-0.847): Korelasi negatif yang kuat, menunjukkan bahwa pertumbuhan populasi yang lebih tinggi cenderung berkorelasi dengan penurunan GDP per kapita. Ketika populasi tumbuh lebih cepat daripada GDP, pendapatan per kapita cenderung menurun.
+Poverty_Ratio (-0.914): Korelasi negatif yang sangat kuat. Semakin rendah tingkat kemiskinan, semakin tinggi GDP per kapita. Penurunan kemiskinan biasanya diiringi dengan peningkatan kesejahteraan ekonomi, yang tercermin dalam GDP per kapita.
+Age_Dependency (-0.967): Korelasi negatif yang sangat kuat. Rasio ketergantungan yang lebih tinggi (lebih banyak anak dan lansia yang tidak bekerja) biasanya dikaitkan dengan penurunan GDP per kapita, karena lebih sedikit orang dalam usia produktif yang berkontribusi pada perekonomian.
+Birth_Rate (-0.825): Korelasi negatif yang kuat. Negara dengan tingkat kelahiran yang lebih tinggi cenderung memiliki GDP per kapita yang lebih rendah. Hal ini sering terjadi di negara berkembang, di mana peningkatan jumlah penduduk tidak diikuti dengan peningkatan produktivitas ekonomi.
+
+Korelasi negatif lemah
+Children_Out_School (-0.028): Korelasi yang sangat lemah dan negatif, menunjukkan bahwa jumlah anak yang tidak bersekolah tidak memiliki pengaruh signifikan terhadap GDP per kapita dalam dataset ini.
